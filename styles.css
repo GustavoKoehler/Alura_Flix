@@ -1,0 +1,14 @@
+body{
+    background-color: blanchedalmond;
+    color: black;
+    font-family: "Audiowide", sans-serif;
+}
+
+section{
+border:solid;
+
+.categoria-vídeos{
+display: flex;
+overflow-x: auto;
+gap: 10px;
+}
